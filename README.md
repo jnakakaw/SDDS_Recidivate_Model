@@ -1,4 +1,4 @@
-SDDS Team #1: Team GM
+# SDDS Team GM - ETL, Feature Selection and Modeling
 
 Files used to clean up data and train the recividism model have been placed here.
 
