@@ -1,4 +1,5 @@
-SDDS Team #1 => Team GM
+SDDS Team #1: Team GM
+
 Files used to clean up data and train the recividism model have been placed here.
 
 Teeam Members:
